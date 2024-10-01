@@ -27,7 +27,7 @@ This C++ project demonstrates a simple client-server file transfer using Boost.A
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Bohdanperl/SimpleServerClient.git
+git clone -b TCP_Server https://github.com/Bohdanperl/SimpleServerClient.git
 cd SimpleServerClient
 ```
 2. Create a build directory and navigate to it:
